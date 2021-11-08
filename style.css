@@ -36,6 +36,15 @@ li {
   width: 200px;
 }
 
-button {
-  
+.featured {
+  display: flex;
+  justify-content: space-around;
+  max-width: 700px;
+}
+
+.songs {
+  display: flex;
+  flex-direction: column;
+  max-width: 150px;
+  align-items: center;
 }
