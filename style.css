@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li {
+  display: inline;
+}
