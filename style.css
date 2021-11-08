@@ -48,3 +48,17 @@ li {
   max-width: 150px;
   align-items: center;
 }
+
+.quote {
+  display: flex;
+  max-width: 700px;
+  flex-direction: column;
+}
+
+.author {
+  margin-left: auto;
+}
+
+h3 {
+  text-align: center;
+}
