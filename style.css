@@ -58,8 +58,8 @@ li {
 
 .flex-container-4 {
   display: flex;
-  max-width: 600px;
-  justify-content: space-around;
+  width: 600px;
+  justify-content: space-between;
 }
 
 .author {
