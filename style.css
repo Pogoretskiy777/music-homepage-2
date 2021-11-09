@@ -2,13 +2,14 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 
 .flex-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 700px;
+  width: 700px;
 }
 
 .flex-container-2 {
