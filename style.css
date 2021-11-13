@@ -46,7 +46,7 @@ body {
 }
 
 .profile {
-  width: 250px;
+  height: 350px;
 }
 
 .featured {
@@ -59,7 +59,7 @@ body {
 .songs {
   display: flex;
   flex-direction: column;
-  max-width: 150px;
+  width: 150px;
   align-items: center;
 }
 
@@ -141,7 +141,7 @@ li {
 }
 
 .picture {
-  width: 100px;
+  width: 125px;
 }
 
 h3 {
